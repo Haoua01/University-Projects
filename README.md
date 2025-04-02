@@ -4,3 +4,4 @@ This is a repository on some of my most memorable university projects, implement
 - Use of Scikit-Learn for regression and classification with the MNIST dataset
 - Implementation of Monte Carlo methods (MCMC) for probability density estimation
 - Creation of an SIR model for an epidemiology project using Public Health France data on COVID-19
+- Codes for a research article around Milgram Experiment using a multi-agent framework with AutoGen and OpenAI API keys (codes folder)
